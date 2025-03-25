@@ -1,0 +1,25 @@
+🔹 Revenue & Expense Analytics Dashboard - README
+
+Project Overview
+This dashboard analyzes business performance using revenue, expenses, profit, and discount rates. It includes various visualizations to track sales trends, customer segments, and payment methods.
+
+Data Used
+The dataset includes Transaction ID, Date, Revenue, Expenses, Profit (Revenue - Expenses), Category, Region, Department, Product Line, Customer Segment, Payment Method, and Discount.
+
+Pivot Tables & Visualizations
+1. Revenue & Profit Analysis - Column Chart
+2. Regional Sales Distribution - Bar Chart
+3. Sales Trends Over Time - Line Chart
+4. Profit vs. Expenses Comparison - Area Chart
+5. Payment Method Breakdown - Pie Chart
+
+Steps to Create the Dashboard
+1. Clean and verify data
+2. Create pivot tables
+3. Insert charts
+4. Arrange dashboard layout
+5. Apply formatting
+6. Add slicers for interactivity
+
+Final Deliverable
+Excel dashboard with interactive visuals and insights.
